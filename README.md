@@ -71,16 +71,6 @@ List the key features of your project:
 [Run commands - index.html]
 ```
 
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
-
 ## Project Documentation
 
 ### For Software:
@@ -197,7 +187,8 @@ List the key features of your project:
 
 #### App Flow Diagram
 
-![App Flow](docs/app-flow.png)
+![<img width="1080" height="524" alt="Screenshot 2026-02-21 101054" src="https://github.com/user-attachments/assets/54a59368-f625-4a32-86cc-5a98cc7387af" />
+](docs/app-flow.png)
 *Explain the user flow through your application*
 
 #### Installation Guide
@@ -332,7 +323,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[https://drive.google.com/file/d/1T_zF0dMAKzKPNcxjQCetWqos62qSw9ls/view?usp=drive_link]
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
@@ -345,19 +336,15 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
-
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+**Tool Used:** ChatGPT
+**Purpose:** Helped in generating code snippets, debugging JavaScript, and API endpoint structuring
 
 **Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
+- "Create a medicine reminder system using Web Speech API"
+- "Write JavaScript function to track daily medicine adherence"
+- "Generate REST API endpoints for CRUD operations on medicines"
 
-**Percentage of AI-generated code:** [Approximately X%]
+**Percentage of AI-generated code:** [Approximately 25-28%]
 
 **Human Contributions:**
 - Architecture design and planning
@@ -371,15 +358,14 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- Anusree C V: Frontend UI/UX design, Dashboard layout, Voice input integration
+- Ashwini Shaji: Backend logic, API integration, Reminder notifications, Adherence tracking
 
 ---
 
 ## License
 
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Common License Options:**
 - MIT License (Permissive, widely used)
