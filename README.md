@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/d7510fb8-1880-4005-a3e2-d8462c1a94cc" />
 
 # [Med-Buddy] 🎯
 
